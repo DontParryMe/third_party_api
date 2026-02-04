@@ -15,7 +15,7 @@
 ## 🚀 Установка
 
 1. **Клонируйте репозиторий:**
-- git clone git@github.com:DontParryMe/third_party_api.git
+- git clone https://github.com/DontParryMe/third_party_api.git
 - cd third_party_api
 
 2. **Создайте виртуальное окружение:**
