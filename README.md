@@ -23,8 +23,8 @@
 
 3. **Активируйте виртуальное окружение:**
 - macOS / Linux: source .venv/bin/activate
-- Windows (cmd): venv\Scripts\activate
-- Windows (PowerShell): venv\Scripts\Activate.ps1
+- Windows (cmd): .venv\Scripts\activate
+- Windows (PowerShell): .venv\Scripts\Activate.ps1
 
 4. **Установите зависимости:**
 - pip install -r requirements.txt
