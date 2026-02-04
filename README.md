@@ -31,4 +31,5 @@
 
 5. **Запуск проекта:**
 - создайте и заполните файл .env (для локальной проверки можно просто скопировать .env.example)
-- uvicorn main:app --reload 
+- uvicorn main:app --reload
+- swagger будет доступен по http://127.0.0.1:8000/docs#
